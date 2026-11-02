@@ -1,0 +1,3 @@
+Application Name: Student Management System
+Version: 1.0
+Description: A simple application for managing student records.
